@@ -1,0 +1,18 @@
+mode: set
+project/config/config.go:15.35,17.16 2 1
+project/config/config.go:17.16,19.3 1 1
+project/config/config.go:21.2,22.23 2 1
+project/config/config.go:22.23,24.3 1 1
+project/config/config.go:26.2,29.8 1 1
+project/controllers/user_controller.go:11.31,17.2 2 1
+project/controllers/user_controller.go:20.33,24.48 2 1
+project/controllers/user_controller.go:24.48,27.3 2 1
+project/controllers/user_controller.go:31.2,31.34 1 1
+project/middlewares/auth_middleware.go:9.39,10.30 1 1
+project/middlewares/auth_middleware.go:10.30,13.29 2 1
+project/middlewares/auth_middleware.go:13.29,17.4 3 1
+project/middlewares/auth_middleware.go:18.3,18.11 1 1
+project/main.go:11.13,23.16 5 1
+project/main.go:23.16,24.13 1 0
+project/routes/user_routes.go:9.37,12.2 2 1
+project/routes/user_routes.go:12.2,15.3 2 1
